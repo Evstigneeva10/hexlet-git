@@ -1,3 +1,3 @@
-git is awesome!
+I love Hexlet!
 Woow
-Hexlet is awesome too!
+Something important
